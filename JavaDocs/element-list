@@ -1,0 +1,15 @@
+com.natwest.opendata
+com.natwest.opendata.common
+com.natwest.opendata.enums
+com.natwest.opendata.enums.products
+com.natwest.opendata.exception
+com.natwest.opendata.model.atm
+com.natwest.opendata.model.branches
+com.natwest.opendata.model.products.businessCurrentAccounts
+com.natwest.opendata.model.products.ccc
+com.natwest.opendata.model.products.personalCurrentAccounts
+com.natwest.opendata.model.products.unsecureSMELoan
+com.natwest.opendata.service
+com.natwest.opendata.service.product
+com.natwest.opendata.util
+com.natwest.opendata.util.csv
